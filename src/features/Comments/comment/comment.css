@@ -1,0 +1,25 @@
+.list-group-item {
+  flex-direction: column;
+}
+
+.list-group-item__postnumber {
+  font-size: 16px;
+  color: #535353;
+  font-weight: 600;
+}
+.list-group-item__username {
+  font-size: 16px;
+  color: #535353;
+  font-weight: 600;
+}
+
+.list-group-item__emailadress {
+  font-size: 16px;
+  color: #535353;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.list-group-item__body {
+  padding-top: 10px;  
+}

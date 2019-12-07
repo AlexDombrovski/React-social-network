@@ -1,0 +1,31 @@
+.list-group-item {
+  flex-direction: column;
+}
+
+.list-group-item__postnumber {
+  font-size: 16px;
+  color: #535353;
+  font-weight: 600;
+}
+
+.list-group-item__title {
+  font-size: 16px;
+  color: #535353;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.list-group-item__body {
+  padding-top: 10px;  
+}
+
+.list-group-item__comments {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  background-color: #78C2AD;
+  width: fit-content;
+  padding: 2px 10px;
+}
